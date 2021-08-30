@@ -1,0 +1,2 @@
+openpyxl==3.0.5
+PySimpleGUI==4.44.0
